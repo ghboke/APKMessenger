@@ -9,7 +9,7 @@ APK Messenger 是一款电脑端APK信息文件提取工具，由果核剥壳网
 支持提取APK对应的权限，并且给出权限注释  
 
 ## 相关说明  
-本软件为APKMessenger的复刻版本，原软件为易语言开发迭代到了2.5版本，下载地址：https://www.ghboke.com/apkinfo.html  
+本软件为APKMessenger的复刻版本，原软件为易语言开发迭代到了4.2版本，下载地址：https://www.ghpym.com/apkinfo.html
 本JAVA源代码实现了发行版本的大部分功能，如果要用于生产环境，建议您下载上面地址上面的版本。  
 开发工具：IDEA  
 ### 软件部分按钮不能使用，要读取apk信息，直接把文件拖到软件即可
