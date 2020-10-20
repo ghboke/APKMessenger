@@ -14,3 +14,19 @@ APK Messenger 是一款电脑端APK信息文件提取工具，由果核剥壳网
 开发工具：IDEA  
 ### 软件部分按钮不能使用，要读取apk信息，直接把文件拖到软件即可
 ![img](https://github.com/ghboke/APKMessenger/blob/master/apkmessenger.png)
+
+## Software introduction
+APK Messenger is a computer terminal APK information file extraction tool, developed by the core peeling website, this software is a desktop program developed based on JAVA GUI
+The current JAVA version realizes the function
+Get application name, support extraction of multi-language name
+Get package name, version name, version number, file MD5
+Shell checking function, support to obtain shell information such as love encryption, 360 reinforcement, Bang Bang reinforcement, Aliyun reinforcement, Tencent Legu, Baidu reinforcement, Naga reinforcement, top image reinforcement, pass shield, netqin, and kiwi reinforcement
+Read APK icon
+Support to extract the permissions corresponding to the APK and give permission comments
+
+## Related description
+This software is a re-engraved version of APKMessenger. The original software was developed by Easy Language and iterated to version 4.2. Download link: https://www.ghpym.com/apkinfo.html
+This JAVA source code implements most of the functions of the release version. If you want to use it in a production environment, it is recommended that you download the version at the above address.
+Development tool: IDEA
+### Part of the software buttons cannot be used. To read the apk information, drag the file directly to the software
+![img](https://github.com/ghboke/APKMessenger/blob/master/apkmessenger.png)
